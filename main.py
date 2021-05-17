@@ -8,4 +8,4 @@ for file in os.listdir(test):
         list_of_txt.append(file)
 
 for item in list_of_txt:
-    readTxt(item,0)
+    readTxt(item,1)

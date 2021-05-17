@@ -1,0 +1,96 @@
+Multiple Choice:
+1. A bond that shows strong attraction of electrons by one atom is called
+1. polar covalent
+2. non-polar covalent
+3. ionic
+4. covalent
+2. A partial charge is represented by
+1. D
+2. l
+3. d
+4. a
+3. The Si-Br bond is
+1. mostly ionic
+2. partially ionic
+3. polar covalent
+4. mostly covalent
+5. Random motions of electrons are called
+1. London dispersion forces
+2. Lewis dispersion forces
+3. Gibbs dispersion forces
+4. Pauling dispersion forces
+6. An atom that could form a H bond with an appropriate H atom is
+1. C
+2. Si
+3. I
+4. O
+7. The physical state of an ionic compound at room temperature is
+1. solid
+2. liquid
+3. gas
+4. liquid or gas
+117
+9.3. Polarity and Intermolecular Forces www.ck12.org
+8. Hydrogen bonding is a particularly strong form of
+1. ion-dipole interaction
+2. ion-ion interaction
+3. ion- covalent interaction
+4. dipole-dipole interaction
+9. The relative ability of an atom to attract electrons is called
+1. electronegativity
+2. electropolarity
+3. electropositivity
+4. electrodispersion
+10. One of the following is not a diatomic element
+1. hydrogen
+2. helium
+3. nitrogen
+4. iodine
+True/False:
+11. _____ A single water molecule can form H-bonds with more than one other water molecule.
+12. _____ Hydrogen bonds make it possible for water to be a liquid at room temperature.
+13. _____ CsO would be expected to be a mostly covalent compound.
+14. _____ Bonds between two non-metal atoms are usually covalent in nature.
+15. _____ HI molecules are held together by hydrogen bonds.
+16. _____ The Si-I bond would be considered to be polar covalent.
+17. _____ Electrons are not shared equally in a non-polar covalent bond.
+18. _____ Partial positive and negative charges are used to indicate uneven electron distribution in a covalent
+bond.
+19. _____ A molecule with two poles is called a dipole.
+20. _____ When placed between oppositely charged plates, polar molecules orient themselves so that their positive
+ends are closer to the positive plate.
+Fill in the Blank:
+21. Classify the following bonds as mostly ionic, polar covalent, or mostly covalent.
+1. Si-P
+2. Ca-O
+3. H-Br
+22. Define the following terms:
+1. van der Waals forces
+2. diatomic element
+3. dipole
+4. polar molecule
+23. Which of the following pairs of molecular components will form hydrogen bonds? X = remainder of molecule.
+1. X-N-H and H-C-X
+2. X-O-H and H-F
+3. X-O-H and H-N-X
+4. I-H and H-O-X
+24. Arrange the following in terms of increasing polarity, beginning with the least polar:
+118
+www.ck12.org Chapter 9. Covalent Bonding Assessments
+1. Ca-As
+2. Pt-I
+3. Si-F
+4. Al-Cl
+5. H-O
+25. Can an ether (generic structure C-O-C) form H-bonds with water?
+Answer Key
+1. a
+2. c
+3. c
+5. a
+6. d
+7. a
+8. d
+9. a
+10. b
+11. true
