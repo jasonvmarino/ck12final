@@ -1,0 +1,94 @@
+Multiple Choice:
+1. A colligative property is one based on
+1. number of covalent bonds
+2. number of hydrogen bonds
+3. number of particles
+4. number of dipole-dipole interactions
+2. The freezing point of a solution is lowered by
+1. increasing the number of solute particles
+2. increasing the kinetic energy
+3. decreasing the number of solute particles
+4. increasing the pressure on the solution
+3. The freezing point of water will be lowered most by dissolving 1.0 mole of
+1. naphthalene
+2. NaCl
+3. MgCl2
+4. ether
+4. The best solute for lowering vapor pressure is one that
+1. is slightly soluble
+2. evaporates readily
+3. is nonvolatile
+4. reacts with the solvent
+5. Solvent freezing points are lowered by materials that
+1. bring more order to the solvent molecules
+2. disrupt the order of solvent molecules
+3. increase kinetic energy of solvent molecules
+4. decrease the kinetic energy of solvent molecules
+6. Vapor pressure is a ______ property of the solvent
+1. physical
+2. chemical
+3. dynamic
+4. kinetic
+7. Kf stands for
+1. freezing point elevation constant
+2. molar freezing point constant
+228
+www.ck12.org Chapter 16. Solutions Assessments
+3. micro freezing point constant
+4. molal freezing point constant
+8. A colligative property of water is
+1. molecular structure
+2. boiling point
+3. solubility
+4. reactivity
+9. A volatile liquid
+1. evaporates readily
+2. has a low vapor pressure
+3. has a high boiling point
+4. is unreactive
+10. Molality is defined as
+1. moles solute/moles solvent
+2. moles solute/moles solution
+3. moles solute/kg solution
+4. moles solute/kg solvent
+True/False:
+11. _____ Ethylene glycol is used in many commercial antifreeze preparations.
+12. _____ NaCl will depress the freezing point of water more than CaCl2.
+13. _____ A colligative property is one that depends on the identity of particles.
+14. _____ Liquids that do not evaporate easily have lower vapor pressures.
+15. _____ Solutes used to lower vapor pressure cannot evaporate readily.
+16. _____ The amount of freezing point depression is inversely proportional to the number of particles dissolved.
+17. _____ Vapor pressure is determined by how rapidly molecules can escape the surface of a liquid.
+18. _____ When a solute is added to a solvent, more energy must be removed from the solution in order to freeze
+it.
+19. _____ Salt is added to an icy road to increase the boiling point of the water.
+20. _____ The vapor pressure of a solution is lower, so less energy is needed to bring that pressure up to the
+pressure of the atmosphere.
+Fill in the Blank:
+21. Define the following terms:
+1. freezing point depression
+2. molal freezing point depression constant
+3. boiling point elevation
+4. molal boiling point elevation constant
+22. When a pure _____ freezes, its particles become more ______ as the ________ forces that operate between
+the molecules fix each molecule in place.
+23. While _____ does not depend on temperature, the ______ of the solution increases with temperature.
+Short Answers:
+24. We add 320 g glucose (molar mass 180 g/mole) to 0.65 kg water. What will the new freezing point be?
+25. A solution is prepared of 60 g KCl in 0.700 kg water. What is the boiling pint of the new solution?
+26. A solution containing 15.00 g of a carbohydrate in 100.0 g of water is found to freeze at -1.53°C. What is the
+molar mass of he carbohydrate?
+229
+16.3. Colligative Properties www.ck12.org
+Answer Key
+1. c
+2. a
+3. c
+4. c
+5. b
+6. a
+7. d
+8. b
+9. a
+10. d
+11. true

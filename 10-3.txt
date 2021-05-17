@@ -1,0 +1,85 @@
+Multiple Choice:
+1. A hydrate can be converted to its anhydrous form by
+1. heating
+2. vacuum distillation
+3. chemical treatment
+4. lowering the temperature
+2. The percent composition tells us
+1. the purity of the compound
+2. the amount of each element present
+3. the yield of the reaction
+4. the amount needed for a reaction
+3. An empirical formula will not provide the following information
+1. lowest whole-number ratio of elements
+2. elemental composition of the compound
+3. the molecular mass of the compound
+4. the relative amounts of elements in the compound
+4. Mass spectrometers can determine
+1. molecular mass
+2. molecular formula
+3. molar mass
+4. molar formula
+5. Percent composition is defined as
+1. mass of elementmass of compound100
+2. mass of compoundmass of element100
+3. (mass of elementmass of compound)100
+4. (mass of elementmass of compound)100
+6. One of the following is not needed to determine percent of a hydrate’s mass
+1. number of water molecules
+2. molecular mass of compound
+3. reactivity of compound
+4. molecular mass of water
+7. The molecular formula for cyclohexane is C6H12. The correct empirical formula is
+1. C2H4
+2. CH3
+137
+10.3. Chemical Formulas www.ck12.org
+3. CH
+4. CH2
+8. Cobalt chloride hydrate has the following color
+1. magenta
+2. blue
+3. orange
+4. yellow
+True/False:
+9. _____ Purity of the compound affects determination of percent composition.
+10. _____ Hydrate water molecules are bound to the crystal lattice of a formula unit.
+11. _____ Ionic compounds exist as discrete molecules.
+12. _____ Elemental analysis gives information for determination of empirical formulas.
+13. _____ In many situations, the molecular formula and the empirical formula are the same.
+14. _____ Acetic acid and glucose have different empirical formulas.
+15. _____ The empirical formula mass is the molar mass represented by the empirical formula.
+16. _____ Hydrates may contain fractional molecules of water.
+Short Answers:
+17. Determine the percent composition of the following compounds.
+a. RbI
+b. Na2O
+c. CH3OH
+18. Determine the percent composition from the following analytical data:
+a. Analysis of a 30.9 g sample of a compound yielded 9.63 g S and 21.3 g Cl.
+b. A sample with a mass of 95.2 g contains 40.8 g C and 54.4 g O.
+c. A sample has a mass of 0.432 g and contains only O and F. The oxygen content is 0.128 g.
+19. Calculate the percent by mass of water in the following compounds:
+a. LiNO3  3H2O
+b. CoF2  4H2O
+c. ZnSO4  7H2O
+20. Calculate the empirical formula from the data below:
+a. 47.9% Zn, 52.1% Cl
+b. 20.23% Al, 79.77% Cl
+c. 24.74% K, 34.7% Mn, 40.50% O
+21. Determine the molecular formula:
+a. empirical formula ClCH2 molar mass 98.96 g/mol
+b. empirical formula C10H7O2 molar mass 318.31 g/mol
+c. empirical formula C4H5N2 molar mass 194.16 g/mol
+Answer Key
+1. a
+138
+www.ck12.org Chapter 10. The Mole Assessments
+2. b
+3. c
+4. c
+5. c
+6. c
+7. d
+8. a
+9. true

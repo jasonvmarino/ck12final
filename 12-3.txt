@@ -1,0 +1,71 @@
+Multiple Choice:
+1. After a reaction was run, there were 12.7 grams of reagent B left over. Reagent B is the
+1. superfluous reagent
+2. excess reagent
+3. extra reagent
+4. limiting reagent
+2. Reagent A was used in a reaction. At the end of the reaction, no reagent A remained. Reagent A is the
+1. excess reagent
+2. insufficient reagent
+3. limiting reagent
+4. restricted reagent
+3. The amount of product that is expected to be formed is the
+1. theoretical yield
+2. predicted yield
+3. limiting yield
+4. desired yield
+4. The amount of product seen at the end of a chemical reaction is used to determine
+1. desired yield
+2. actual yield
+3. measured yield
+4. predicted yield
+5. In order to calculate percent yield, all of the following information is needed except
+1. theoretical yield
+2. amount actually obtained
+3. expected amount
+4. amount of excess reagent
+True/False:
+6. _____ The presence of moisture in the product does not affect determination of actual yield.
+7. _____ The product must be pure in order to determine actual yield.
+8. _____ The excess reagent is always due to incomplete reactions.
+9. _____ Excess reagent is calculated from mole data.
+10. _____ A balanced equation is necessary for theoretical yield calculations.
+161
+12.3. Limiting Reactant and Percent Yield www.ck12.org
+Short Answers:
+Part A –Limiting Reagent and Excess Reagent
+For problems 11-15, determine
+a. the limiting reagent
+b. the excess reagent
+c. the number of moles of excess reagent
+11. 25.0 grams of chlorine reacts with 29.0 grams of sodium
+12. 2Na+Cl2 !2NaCl
+13. 2.80 g Mg reacts with 11.0 g O2
+14. 2Mg+O2 !2MgO
+15. 75.4 grams of C2H3Br3 reacts with 47.1 grams of O2
+16. 4C2H3Br3+11O2 !8CO2+6H2O+6Br2
+17. 22.5 grams of CoO reacts with 2.6 grams of O2
+18. 4CoO+O2 !2Co2O3
+19. 21 grams sodium nitrate reacts with 15 grams sulfuric acid
+20. 2NaNO3(s)+H2SO4(l)!Na2SO4(s)+2HNO3(g)
+Part B –Theoretical Yield, Percent Yield
+For each of the following reactions, calculate
+a. theoretical yield
+b. percent yield
+16. 65 grams of CaCO3 is heated to give 18 grams of CaO
+17. CaCO3 !CaO+CO2
+18. 59 mol of Ca3(PO4)2 is used and 95 mol of CaSiO3 is obtained
+19. Ca3(PO4)2+3SiO2+5C!3CaSiO3+2P+5CO
+20. 55.3 g WO3 yields 40.7 g of tungsten
+21. WO3+3H2 !W +3H2O
+22. 420 g CS2 produces 740 g CCl4
+23. CS2+3Cl2 !CCl4+S2Cl2
+24. 0.40 g NO2 forms 0.39 g N2O5
+25. 2NO2+O3 !N2O5+O2
+Answer Key
+1. b
+2. c
+3. a
+4. b
+5. d
+6. false

@@ -1,0 +1,99 @@
+Multiple Choice:
+1. The symbol for molality is
+1. m
+2. m
+3. M
+4. M
+2. The symbol for molarity is
+1. m
+2. m
+3. M
+4. M
+3. Mass percent is determined by the calculation
+1. (grams solutegrams solvent)100%
+2. (grams solutegrams solution)100%
+3. (grams solventgrams solute)100%
+4. (grams solutegrams solvent)100%
+4. In making a volume % solution, the volume of solute
+1. depends on the solvent type
+2. is calculated as (solutesolvent)final volume
+3. is added to the desired final volume
+4. is subtracted from the desired final volume
+5. One of the following concentration units allows us to determine the number of particles present.
+1. volume percent
+2. percent dilution
+3. molarity
+4. mass percent
+6. Units for molarity are
+1. grams/liter
+2. grams/mL
+3. moles %
+4. moles/L
+7. To determine molarity, we need to know _______ of solute
+1. grams/L
+2. grams%
+225
+16.2. Solution Concentration www.ck12.org
+3. grams/mole
+4. moles/gram
+8. Molality calculations require that we know
+1. liters of solution
+2. liters of solvent
+3. kilograms of solvent
+4. kilograms of solute
+9. The best glassware to use in preparing a solution is a
+1. graduated cylinder
+2. volumetric flask
+3. calibrated beaker
+4. buret
+10. The formula to use for calculations of dilutions is
+1. V1C1 =V2C2
+2. V1C2 =V2C1
+3. V1
+C1
+= V2
+C2
+4. C1
+V1
+= C2
+V2
+True/False:
+11. _____ Molarity values are not affected by temperature
+12. _____ The concentration of a solution is decreased by adding water to it.
+13. _____ You can use a 1.0 liter flask to prepare 500 mL of solution.
+14. _____ A dilute solution contains a relatively small amount of solute
+15. _____ If the solvent evaporates from a solution, that solution becomes less concentrated.
+16. _____ Mass percent is used if the solute is a solid.
+17. _____ Volume percent is calculated using volume solutevolume solvent.
+18. _____ Volume is not preserved in many liquid solute/solvent combinations.
+19. _____ “Concentrated” and “dilute” provide accurate information about solute concentrations.
+20. _____ It is not important to know whether a % solution is by mass or by volume.
+Short Answers:
+21. Describe how to prepare 250 mL of a 5% (mass/mass) solution of glucose in water.
+22. Describe how to prepare 500 mL of a 10% (vol/vol) solution of acetone in water.
+23. How many mL of 0.45 M NaCl solution will you need to prepare 150 mL of 0.1 M NaCl?
+24. You dilute 200 mL of a glucose stock solution to make 500 mL of a 0.30 M solution. What was the
+concentration of the stock solution?
+25. Describe how to prepare 500 mL of 0.2 M LiCl.
+26. You dissolve 45 g methanol (molar mass = 32 g=mole) in water and dilute to 300 mL. What is the molarity of
+the solution?
+27. How many grams of MgCl2 would you dissolve in 1.5 kilograms water to form a 0.5 m solution?
+28. What is the molality of a solution in which 0.77 moles of solute are dissolved in 0.45 kg water?
+29. Why would it be difficult to prepare a 0.5 M solution of CO2?
+30. You are preparing molal solutions by dissolving 0.15 moles of solute into 500 grams of solvent. Solvent A
+has a density of 0.6 g/mL and solvent B has a density of 1.4 g/mL. Which solution will contain the higher
+concentration of solute?
+226
+www.ck12.org Chapter 16. Solutions Assessments
+Answer Key
+1. b
+2. c
+3. b
+4. d
+5. c
+6. d
+7. c
+8. c
+9. b
+10. a
+11. false

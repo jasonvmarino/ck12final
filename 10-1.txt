@@ -1,0 +1,94 @@
+Multiple Choice:
+1. The molecule CH2CHCH3CH2CHF(CH3)2CCH3 contains ___ H atoms
+1. 16
+2. 22
+3. 18
+4. 20
+2. An exact quantity
+1. has been measured very carefully
+2. is found by counting
+3. is determined by several labs
+4. has been defined by an international commission
+3. A representative particle of silicon dioxide is
+1. a grain of sand
+2. an atom of silicon
+3. a molecule of SiO3
+4. a molecule of SiO2
+4. One of the following statements about atomic mass is untrue. Atomic mass is
+1. a relative number
+2. based on carbon-12
+3. based on H-1
+4. used to determine molar mass
+5. There are _____ chocolate chips in five dozen chocolate chips
+1. 5
+2. 60
+3. 50
+4. 30
+6. The _____ is the SI unit for the amount of a substance.
+1. milligram
+2. milliliter
+3. mole
+4. micron
+7. The representative particle for O2 is the
+1. atom
+2. molecule
+129
+10.1. The Mole Concept www.ck12.org
+3. formula unit
+4. mole
+8. Molar mass is defined as the mass of
+1. one mole of a solution
+2. on mole of representative particles of a substance
+3. 6:021020 particles
+4. one Avogadro’s number of atoms
+9. The representative particle for KBr is the
+1. atom
+2. formula unit
+3. molecule
+4. extended lattice
+10. The molar mass of an element is
+1. the atomic mass expressed in grams
+2. the molecular mass
+3. the atomic mass expressed in amu
+4. the atomic mass expressed in milligrams
+True/False:
+11. _____ Dimensional analysis uses conversion factors.
+12. _____ The representative particle for H2 is the atom.
+13. _____ “Formula mass” can apply to both molecules and ions.
+14. _____ Ionic compounds exist as discrete molecules.
+15. _____ A mole of CH2CHCH3CH2CHF(CH3)2CCH3 contains nine moles of carbon.
+16. _____ Avogadro’s number has been experimentally determined.
+17. _____ Atomic masses on the periodic table are usually whole numbers.
+18. _____ The molecular mass of a compound is the mass of one mole of that compound.
+Short Answers:
+19. You are buying chocolate chip cookies for the chess club. There are ten members of the club and they will
+each eat eight cookies. How many cookies do you need to buy?
+20. Convert the given number of particles to moles
+1. 1:71014 atoms of Pt
+2. 3:81026 molecules of ethane
+3. 5:11012 formula units of LiBr.
+4. 3.7 molecules N2
+21. Convert the moles to the number of representative particles
+1. 24 mol gold
+2. 0.15 mol trinitrotoluene
+3. 0.57 mol MgBr2
+4. 0.83 mol O2
+22. Calculate the formula mass for each of the following compounds
+1. PtCl6
+2. N2
+3. CH3CH2OCH3
+4. FeO2C6H4
+130
+www.ck12.org Chapter 10. The Mole Assessments
+Answer Key
+1. c
+2. b
+3. d
+4. c
+5. b
+6. c
+7. b
+8. b
+9. b
+10. a
+11. true

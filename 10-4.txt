@@ -1,0 +1,102 @@
+Multiple Choice:
+1. A representative particle of carbon dioxide is
+1. an atom
+2. a molecule
+3. 22.4L
+4. an ion
+2. Atomic mass is based on
+1. C-12
+2. H-1
+3. O-16
+4. C-14
+3. The mole is the SI unit for
+1. volume of material
+2. mass of reactant
+3. amount of a substance
+4. mass of a substance
+4. The term amu stands for
+1. atomic molecular unit
+2. atomic mass unit
+3. atomic molar unit
+4. anion mass unit
+5. Gas volume is not affected by
+1. high pressure
+2. temperature
+3. size of gas molecules
+4. low pressure
+6. One mole of gas equals _____ at STP
+1. 22.4 L
+2. 22.8 L
+3. 23.9 L
+4. 22.4 mL
+7. The representative particle for HCl is the
+1. atom
+2. molecule
+141
+10.4. The Mole www.ck12.org
+3. ion
+4. formula unit
+8. Water molecules in a hydrate are
+1. ionically attached to the molecule
+2. covalently bound to the molecule
+3. covalently bound to the lattice
+4. incorporated into the crystal lattice
+9. The amount of each substance present in a compound can best be learned from the
+1. molar mass
+2. empirical formula
+3. percent composition
+4. empirical mass
+10. The molecular formula for ethylbenzene is C8H10. The empirical formula would be
+1. C3H5
+2. C4H6
+3. C4H5
+4. C3H6
+True/False:
+11. _____ Units for gas density are g/mL
+12. _____ The representative particle for H2 is the molecule.
+13. _____ Equal volumes of N2 and Rn gases have the same number of particles.
+14. _____ The molar mass of a compound is the mass of one mole of representative particles of that compound.
+15. _____ The amount of matter in a gas can be measured by its volume.
+16. _____ The term formula mass can only be applied to molecules.
+17. _____ The units for molar mass are g/mol.
+18. _____ Gas volume increases when the temperature decreases.
+19. _____ One atom of the most abundant isotope of hydrogen has a mass of approximately 1 amu.
+20. _____ Empirical formulas are determined using elemental analysis.
+Short Answers:
+21. Make the following calculations of properties of gases
+a. How many moles of SO2 are in 745 L at STP?
+b. What is the volume of 325 moles of N2?
+c. What is the density of a gas with a molar mass of 78 g/mole?
+22. Determine the following formula masses:
+a. NH4Cl
+b. NaHCO3
+c. C17H18F3NO
+23. How many moles are each of the following?
+a. 270 g KBr
+b. 397 g Li2SO4
+24. Calculate the percent by mass of water in the following compounds
+a. CoCl2  6H2O
+b. PbCl2  3H2O
+142
+www.ck12.org Chapter 10. The Mole Assessments
+25. How many particles are there in
+a. 0.2 moles FeSO4
+b. 1.7 moles CH4
+26. What is the mass of
+a. 1.7 moles CaBr2
+b. 0.48 moles N2O
+27. Determine the percent composition for the following
+a. A compound contains 6.2 g C, 4.1 g H, and 15.9 g O
+b. A compound contains 1.2 moles C and 3.2 moles H
+Answer Key
+1. b
+2. a
+3. c
+4. b
+5. c
+6. a
+7. b
+8. d
+9. c
+10. c
+11. false

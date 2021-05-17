@@ -1,0 +1,103 @@
+Multiple Choice:
+1. One of the following is not a representative particle
+1. atoms
+2. ions
+3. molecules
+4. formula units
+2. In order to convert between mass and number of particles, a conversion to ___ is first required.
+1. grams
+2. volume
+3. moles
+4. atoms
+3. The molar mass of CuCl2 is
+1. 134.6
+2. 98.9
+3. 207.7
+4. 63.55
+4. The compound whose molar mas is 212.4 is
+1. CsBr
+2. RbI
+3. KF
+4. CaF2
+5. One of the following is not a property of a gas
+1. compressibility
+2. crowded molecules
+3. negligible particle size
+4. expandability
+6. STP stands for
+1. sequentially timed pressure
+2. standard telemetry process
+3. standard temperature and pressure
+4. standard temperature processing
+7. Gas density can be calculated using
+1. D = molar mass22:4
+2. D = molecular mass22:4
+132
+www.ck12.org Chapter 10. The Mole Assessments
+3. D = molecular mass22:4
+4. D = molar mass22:4
+8. The mole road map cannot be used in calculations of
+1. volume
+2. concentration
+3. mass
+4. representative particles
+9. One mole of gas = 22.4 L only at
+1. 0ºC and 1 atm pressure
+2. 32ºC and one atm pressure
+3. 0ºK and one atm pressure
+4. 0ºF and one atm pressure
+10. One of the following does not affect gas volume
+1. high pressure
+2. size of gas molecules
+3. high temperature
+4. low pressure
+True/False:
+11. _____ The number of moles of a solid can be determined by measuring the volume of the solid.
+12. _____ As the temperature increases, the gas volume increases.
+13. _____ Units for gas density are kg/L
+14. _____ The density for hydrogen is greater than the density of air..
+15. _____ A balance can be used to directly determine the number of moles in a material.
+16. _____ Equal volumes of H2 and Xe at STP contain different numbers of particles.
+17. _____ Equal volumes of H2 and Xe at STP have different masses.
+18. _____ The density of a gas at a specific temperature and pressure is dependent on its molar mass.
+Short Answers:
+19. Find the mass of the following materials:
+a. 0.45 moles C
+b. 2.67 moles Hg
+c. 1.9 moles MgCl2
+d. 4.3 moles CH2=CH-CH2F
+20. Determine the number of moles in each of the following:
+a. 153 g P2O5
+b. 75.3 g N2O2
+c. 17.4 g HCl
+d. 92:6 g CH C􀀀CHBr2
+21. How many moles of gas in each of the following?
+a. 839 L of argon
+b. 164 L of hydrogen
+c. 63.7 L of fluorine
+22. How much volume is occupied by the following gases?
+a. 26.4 moles sulfur dioxide
+133
+10.2. Mass, Volume, and the Mole www.ck12.org
+b. 14.5 moles helium
+c. 32.7 moles chlorine
+23. Calculate the density of each of the following gases:
+a. CH3CH3
+b. CH CH
+c. H2S
+24. Calculate the molar mass of the gas when given the density at STP
+a. density = 2:86 g=L
+b. density = 1:96 g=L
+c. density = 0:09 g=L
+Answer Key
+1. b
+2. c
+3. a
+4. a
+5. b
+6. c
+7. d
+8. b
+9. a
+10. b
+11. false
